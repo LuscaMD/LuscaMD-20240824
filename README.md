@@ -1,5 +1,10 @@
 # Sistema de Gestão de Colaboradores e Unidades em C# com PostgreSQL
 
+Tecnologias: C#, API, .NET 7, Entity Framework Core, Razor Pages
+Banco de dados: PostgreSQL
+Autenticação: Bearer Token
+Arquitetura: MVC
+
 Este é um projeto de backend que implementa um Sistema de Gestão de Colaboradores e Unidades, utilizando o PostgreSQL como banco de dados.
 
 ## **Funcionalidades**
