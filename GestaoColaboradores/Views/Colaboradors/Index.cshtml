@@ -1,0 +1,53 @@
+﻿@model IEnumerable<GestaoColaboradores.Models.Entities.Colaborador>
+
+@{
+    ViewData["Title"] = "Listagem";
+}
+
+<h1>Lista de Colaboradores</h1>
+
+<p>
+    <a asp-action="Create">Criar novo colaborador</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdColaborador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CodigoUnidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUsuario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdColaborador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.CodigoUnidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUsuario)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdColaborador">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.IdColaborador">Ver detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdColaborador">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

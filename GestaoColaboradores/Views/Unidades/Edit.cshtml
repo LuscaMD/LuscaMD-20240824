@@ -1,0 +1,41 @@
+﻿@model GestaoColaboradores.Models.Entities.Unidade
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar</h1>
+
+<h4>Unidade</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdUnidade" />
+            <div class="form-group">
+                <label asp-for="CodigoUnidade" class="control-label"></label>
+                <input asp-for="CodigoUnidade" class="form-control" />
+                <span asp-validation-for="CodigoUnidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomeUnidade" class="control-label"></label>
+                <input asp-for="NomeUnidade" class="form-control" />
+                <span asp-validation-for="NomeUnidade" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="UnidadeAtiva" /> @Html.DisplayNameFor(model => model.UnidadeAtiva)
+                </label>
+            </div>
+            <div class="form-group margin">
+                <a asp-action="Index" class="btn btn-danger">Cancelar</a>
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

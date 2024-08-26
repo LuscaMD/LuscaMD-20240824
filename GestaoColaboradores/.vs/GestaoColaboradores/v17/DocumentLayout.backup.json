@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\controllers\\unidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:controllers\\unidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\controllers\\colaboradorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:controllers\\colaboradorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\data\\gestaocolaboradorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:data\\gestaocolaboradorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\colaboradors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\colaboradors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\colaboradors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\colaboradors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\colaboradors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\colaboradors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\colaboradors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\colaboradors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\unidades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\unidades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\models\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:models\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\unidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\unidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\colaboradors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\colaboradors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\models\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:models\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|c:\\users\\lucas\\desktop\\projetos\\luscamd-20240824\\gestaocolaboradores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE2431B-5725-495D-99EB-F347059C85F8}|GestaoColaboradores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:16:06.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T17:12:30.045Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Models\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Models\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Models\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:52:24.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColaboradorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Controllers\\ColaboradorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ColaboradorsController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Controllers\\ColaboradorsController.cs",
+              "RelativeToolTip": "Controllers\\ColaboradorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:52:41.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:03:58.401Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Controllers\\UnidadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UnidadesController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Controllers\\UnidadesController.cs",
+              "RelativeToolTip": "Controllers\\UnidadesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:35:22.98Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestaoColaboradoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Data\\GestaoColaboradoresContext.cs",
+              "RelativeDocumentMoniker": "Data\\GestaoColaboradoresContext.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Data\\GestaoColaboradoresContext.cs",
+              "RelativeToolTip": "Data\\GestaoColaboradoresContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:31:30.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colaboradors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Colaboradors\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T00:07:05.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T00:06:34.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T23:51:04.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Models\\Entities\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Models\\Entities\\Colaborador.cs",
+              "RelativeToolTip": "Models\\Entities\\Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T22:34:31.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:32:59.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Unidades\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Unidades\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Unidades\\Create.cshtml",
+              "RelativeToolTip": "Views\\Unidades\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:32:49.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colaboradors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Colaboradors\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:32:22.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colaboradors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Colaboradors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:32:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:31:48.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colaboradors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Colaboradors\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:31:42.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Unidades\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Unidades\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Unidades\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Unidades\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:28:10.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colaboradors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Colaboradors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Colaboradors\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:27:33.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Projetos\\LuscaMD-20240824\\GestaoColaboradores\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T22:27:30.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

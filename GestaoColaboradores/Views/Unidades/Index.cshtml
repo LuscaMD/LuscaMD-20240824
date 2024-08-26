@@ -1,0 +1,90 @@
+﻿@model IEnumerable<GestaoColaboradores.Models.ViewModel.UnidadeColaboradoresViewModel>
+
+@{
+    ViewData["Title"] = "Listagem";
+}
+
+<h1>Lista de Unidades e seus colaboradores</h1>
+
+<p>
+    <a asp-action="Create">Criar nova Unidade</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Unidade.CodigoUnidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Unidade.NomeUnidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Unidade.UnidadeAtiva)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Unidade.CodigoUnidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Unidade.NomeUnidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Unidade.UnidadeAtiva)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Unidade.IdUnidade">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Unidade.IdUnidade">Ver Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Unidade.IdUnidade">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@foreach(var unidade in Model){
+
+    <h4>Lista de colaboradores da unidade "@Html.DisplayName(unidade.Unidade.NomeUnidade)"</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    IdColaborador
+                </th>
+                <th>
+                    Nome
+                </th>
+                <th>
+                    Unidade
+                </th>
+                <th>
+                    IdUsuario
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var colaboradoresUnidade in unidade.Colaboradores)
+            {
+                <tr>
+                    <td>
+                        @colaboradoresUnidade.IdColaborador
+                    </td>
+                    <td>
+                        @colaboradoresUnidade.Nome
+                    </td>
+                    <td>
+                        @colaboradoresUnidade.CodigoUnidade
+                    </td>
+                    <td>
+                        @colaboradoresUnidade.IdUsuario
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}

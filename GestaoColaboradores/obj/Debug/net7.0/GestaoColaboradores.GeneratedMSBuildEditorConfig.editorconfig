@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GestaoColaboradores
+build_property.RootNamespace = GestaoColaboradores
+build_property.ProjectDir = C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Unidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Unidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Unidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Unidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Unidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q3b6wy16cl

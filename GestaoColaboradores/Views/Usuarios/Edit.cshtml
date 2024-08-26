@@ -1,0 +1,42 @@
+﻿@model GestaoColaboradores.Models.Entities.Usuario
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar</h1>
+
+<h4>Usuario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdUsuario" />
+            <div class="form-group">
+                <label asp-for="NomeLogin" class="control-label"></label>
+                <input asp-for="NomeLogin" class="form-control" readonly/>
+                <input type="hidden" asp-for="NomeLogin" />
+                <span asp-validation-for="NomeLogin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Senha" class="control-label"></label>
+                <input asp-for="Senha" class="form-control" />
+                <span asp-validation-for="Senha" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="UsuarioAtivo" /> @Html.DisplayNameFor(model => model.UsuarioAtivo)
+                </label>
+            </div>
+            <div class="form-group margin">
+                <a asp-action="Index" class="btn btn-danger">Cancelar</a>
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

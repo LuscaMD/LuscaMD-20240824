@@ -1,0 +1,36 @@
+﻿@model GestaoColaboradores.Models.Entities.Unidade
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Unidade</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CodigoUnidade)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CodigoUnidade)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeUnidade)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomeUnidade)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UnidadeAtiva)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UnidadeAtiva)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdUnidade">Edit</a> |
+    <a asp-action="Index">Voltar</a>
+</div>
