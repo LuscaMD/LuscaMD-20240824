@@ -23,6 +23,11 @@ namespace GestaoColaboradores.Controllers
             return View();
         }
 
+        public IActionResult RedirectToSwagger()
+        {
+            return Redirect("/swagger/");
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

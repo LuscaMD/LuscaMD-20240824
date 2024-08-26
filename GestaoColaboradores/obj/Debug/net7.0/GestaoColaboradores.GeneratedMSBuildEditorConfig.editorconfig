@@ -18,24 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXENyZWF0ZS5jc2h0bWw=
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXERlbGV0ZS5jc2h0bWw=
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXERldGFpbHMuY3NodG1s
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXEVkaXQuY3NodG1s
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradors/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3JzXEluZGV4LmNzaHRtbA==
+[C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Colaboradores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sYWJvcmFkb3Jlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lucas/Desktop/Projetos/LuscaMD-20240824/GestaoColaboradores/Views/Home/Index.cshtml]

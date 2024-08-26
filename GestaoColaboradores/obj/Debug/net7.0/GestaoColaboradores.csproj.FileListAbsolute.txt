@@ -231,3 +231,16 @@ C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\obj\Debug\n
 C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\obj\Debug\net7.0\GestaoColaboradores.pdb
 C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\obj\Debug\net7.0\GestaoColaboradores.genruntimeconfig.cache
 C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\obj\Debug\net7.0\ref\GestaoColaboradores.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\obj\Debug\net7.0\GestaoColaboradores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lucas\Desktop\Projetos\LuscaMD-20240824\GestaoColaboradores\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

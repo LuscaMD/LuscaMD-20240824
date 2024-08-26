@@ -10,16 +10,16 @@ using GestaoColaboradores.Models.Entities;
 
 namespace GestaoColaboradores.Controllers
 {
-    public class ColaboradorsController : Controller
+    public class ColaboradoresController : Controller
     {
         private readonly GestaoColaboradoresContext _context;
 
-        public ColaboradorsController(GestaoColaboradoresContext context)
+        public ColaboradoresController(GestaoColaboradoresContext context)
         {
             _context = context;
         }
 
-        // GET: Colaboradors
+        // GET: Colaboradores
         public async Task<IActionResult> Index()
         {
               return _context.Colaborador != null ? 
@@ -27,7 +27,7 @@ namespace GestaoColaboradores.Controllers
                           Problem("Entity set 'GestaoColaboradoresContext.Colaborador'  is null.");
         }
 
-        // GET: Colaboradors/Details/5
+        // GET: Colaboradores/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Colaborador == null)
@@ -45,13 +45,13 @@ namespace GestaoColaboradores.Controllers
             return View(colaborador);
         }
 
-        // GET: Colaboradors/Create
+        // GET: Colaboradores/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Colaboradors/Create
+        // POST: Colaboradores/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -90,17 +90,17 @@ namespace GestaoColaboradores.Controllers
 
             if (usuarioBusca == null)
             {
-                return "CodigoUnidade";
+                return "IdUsuario";
             }
             else if (unidadeBusca == null)
             {
-                return "IdUnidade";
+                return "CodigoUnidade";
             }
 
             return null;
         }
 
-        // GET: Colaboradors/Edit/5
+        // GET: Colaboradores/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Colaborador == null)
@@ -116,7 +116,7 @@ namespace GestaoColaboradores.Controllers
             return View(colaborador);
         }
 
-        // POST: Colaboradors/Edit/5
+        // POST: Colaboradores/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -161,7 +161,7 @@ namespace GestaoColaboradores.Controllers
             return View(colaborador);
         }
 
-        // GET: Colaboradors/Delete/5
+        // GET: Colaboradores/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Colaborador == null)
@@ -179,7 +179,7 @@ namespace GestaoColaboradores.Controllers
             return View(colaborador);
         }
 
-        // POST: Colaboradors/Delete/5
+        // POST: Colaboradores/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int? id)
